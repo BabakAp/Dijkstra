@@ -11,7 +11,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author Babak
+ * @author Babak Alipour (babak.ap@ufl.edu)(babak@cise.ufl.edu)
  */
 public class Dijkstra {
 

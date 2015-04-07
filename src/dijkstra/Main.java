@@ -21,7 +21,8 @@ import java.util.logging.Logger;
 public class Main {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line arguments e.g. file1.txt 0 25
+     * 
      */
     public static void main(String[] args) {
 //        long startTime = System.nanoTime();
